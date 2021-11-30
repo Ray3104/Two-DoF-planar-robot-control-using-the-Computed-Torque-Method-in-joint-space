@@ -1,0 +1,1 @@
+# Two-DoF-planar-robot-control-using-the-Computed-Torque-Method-in-joint-space
